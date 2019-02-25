@@ -1,0 +1,3 @@
+convert the ui file to py
+
+C:\Users\ASUS\AppData\Local\Programs\Python\Python37\Scripts>pyuic5 -x "E:\TE\VI\SE\av.ui" -o "E:\TE\VI\SE\av.py"
