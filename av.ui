@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QTextEdit" name="title">
+   <widget class="QTextEdit" name="welcome">
     <property name="geometry">
      <rect>
       <x>360</x>
@@ -54,23 +54,10 @@ p, li { white-space: pre-wrap; }
      </rect>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>420</y>
-      <width>291</width>
-      <height>151</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>TextLabel</string>
-    </property>
-   </widget>
    <widget class="QLabel" name="update_box">
     <property name="geometry">
      <rect>
-      <x>750</x>
+      <x>640</x>
       <y>430</y>
       <width>321</width>
       <height>141</height>
@@ -83,7 +70,7 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="scan_box">
     <property name="geometry">
      <rect>
-      <x>370</x>
+      <x>140</x>
       <y>430</y>
       <width>311</width>
       <height>141</height>
